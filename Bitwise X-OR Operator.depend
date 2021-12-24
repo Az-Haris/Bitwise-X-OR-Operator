@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1635247084 source:c:\users\md alimuzzaman haris\desktop\c programme\bitwise x-or operator\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
